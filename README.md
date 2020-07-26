@@ -1,8 +1,8 @@
 # Curso Básico de Front End
 ## Estrutura da página HTML
-- [ ] Cabeçalho da página
-  - [ ] titulo da página: Sobre - Mirror Fashion
-  - [ ] conjunto de character: UTF-8
+- [x] Cabeçalho da página
+  - [x] titulo da página: Sobre - Mirror Fashion
+  - [x] conjunto de character: UTF-8
 - [ ] corpo da página
   - [ ] logo: A Mirror Fashion
   - [ ] parágrafo: A Mirror Fashion é a maior empresa...
