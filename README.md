@@ -1,4 +1,13 @@
 # Curso Básico de Front End
+## Introdução ao HTML
+### HTML
+- Conteúdo (Textos e imagens)
+- Semântica (Tags)
+- Estrutura (Tags com valor semântico e que não apresenta efeito visual - tag figure)
+
+### CSS
+- Visual (Atrativos visuais à página)
+
 ## Estrutura da página HTML
 - [x] Cabeçalho da página
   - [x] titulo da página: Sobre - Mirror Fashion
